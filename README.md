@@ -2,8 +2,6 @@
 
 "The Great Gun Law Experiment," Visualizing the evolution of U.S. concealed carry laws (1981–2021) alongside violent crime trends. Includes choropleth maps, historical timeline, and a multi-layered time series chart.
 
-**Authors**: Nejc Kolčarš, Ivan Šokić ([@isokic](https://github.com/isokic)
-
 ---
 
 ## 📌 Overview
