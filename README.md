@@ -57,11 +57,11 @@
 
 - **Concealed Carry Laws**  
   [RAND Corporation Gun Policy in America](https://www.rand.org/research/gun-policy.html)
-  [National Rifle Association - Institute for Legislative Action](https://www.nraila.org/gun-laws/state-gun-laws/)
   [United States Concealed Carry Association](https://www.usconcealedcarry.com/resources/ccw_reciprocity_map/)
   [Wikipedia: Concealed Carry in the United States](https://en.wikipedia.org/wiki/Concealed_carry_in_the_United_States)
   [Giffords Law Center to Prevent Gun Violence](https://giffords.org/lawcenter/gun-laws/policy-areas/guns-in-public/concealed-carry/)
-  [Everytown for Gun Safety](URL: https://www.everytown.org/issues/concealed-carry/)
+  [Everytown for Gun Safety](https://www.everytown.org/issues/concealed-carry/)
+  
 
 * **Crime Data**
   [DisasterCenter: U.S. Crime Rates](https://www.disastercenter.com/crime/uscrime.htm)
